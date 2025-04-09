@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+solana
+solders
+geckoterminal-py
+python-dateutil
